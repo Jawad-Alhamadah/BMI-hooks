@@ -61,7 +61,7 @@ function onSubmit(){
           <button onClick={onSubmit} className=' self-end text-white font-bold p-2 text-1xl bg-green-500 border-[1px] border-green-900'>Check BMI</button>
         </div>
 
-        <div className='font-bold text-2xl'><span className='text-lg font-bold'>{mess? mess : ""}</span> / Bmi: {bmi} -</div>
+        <div className='font-bold text-2xl'><span className='text-lg font-bold'>{mess? mess : ""}</span> / Bmi: {bmi} </div>
       </div>
 
     </>
