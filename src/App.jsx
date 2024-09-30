@@ -2,11 +2,11 @@ import React, { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 
-import over from "./assets/over.png"
-import double from "./assets/double-over.png"
-import normal from "./assets/normal.png"
-import obese from "./assets/obese.png"
-import under from "./assets/underWeight.png"
+import over from "/normal.png?urlover.png"
+import double from "/normal.png?urldouble-over.png"
+import normal from "/normal.png?urlnormal.png"
+import obese from "/normal.png?urlobese.png"
+import under from "/normal.png?urlunderWeight.png"
 
 import './App.css'
 
