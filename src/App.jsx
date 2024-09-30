@@ -5,7 +5,7 @@ import over from "/over.png?urlover.png"
 import double from "/double-over.png?urldouble-over.png"
 import normal from "/normal.png?urlnormal.png"
 import obese from "/obese.png?urlobese.png"
-import under from "/underWeight.png?urlunderWeight.png"
+import under from "/underweight.png?urlunderWeight.png"
 
 import './App.css'
 
