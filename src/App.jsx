@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 
 import over from "/over.png?urlover.png"
 import double from "/double.png?urldouble-over.png"
